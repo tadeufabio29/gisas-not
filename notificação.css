@@ -33,7 +33,8 @@ h2 {
     flex-direction: column;
     margin-left: 15px; 
     font-family: "cooper";
-    color: #AB0827;
+    color: pink;
+    /* color: #AB0827; */
 }
 h3 {
     font-family: P01;
